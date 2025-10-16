@@ -4,7 +4,7 @@
 
 The Coze API SDK for Java is a powerful tool designed to seamlessly integrate Coze's open APIs into your projects.
 
-Key Features:
+Key Features from 2025:
 - Full support for Coze open APIs and authentication APIs
 - Both synchronous and asynchronous SDK calls
 - Optimized streaming APIs with Stream object returns  
